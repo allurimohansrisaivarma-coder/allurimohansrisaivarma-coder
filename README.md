@@ -14,13 +14,13 @@ I enjoy taking ideas from system design to a working product - especially where 
 ## Featured work
 
 ### AI Customer Service Agent
-A retrieval-augmented support assistant for Grandview Residences.
+A retrieval-augmented customer-support application for property-management knowledge bases, with customer chat and ticket administration.
 
-- Built a FastAPI chat API and Streamlit resident-support interface
-- Designed PDF, DOCX, and TXT ingestion into a persistent ChromaDB knowledge base
-- Added retrieval, conversation memory, confidence scoring, request logging, and Groq-hosted LLM responses
+- Ingests TXT, PDF, and DOCX knowledge-base files into Qdrant Cloud using Jina embeddings, query rewriting, and metadata-aware retrieval
+- Produces grounded Groq responses with confidence scoring, then automatically creates tickets for explicit requests or low-confidence cases
+- Includes a React/Vite customer chat and admin dashboard, conversation logs, MongoDB-or-JSON ticket storage, and optional RAGAS evaluation
 
-**Stack:** Python · FastAPI · Streamlit · ChromaDB · Groq · RAG
+**Stack:** Python · FastAPI · React · Vite · Qdrant Cloud · Jina Embeddings · Groq · MongoDB · RAGAS
 
 ### WithFit
 A mobile fitness companion for food tracking, workouts, plans, and user logs.
@@ -51,8 +51,8 @@ A collaborative academic workspace for BITS Pilani Dubai students, created in co
 ~~~text
 Languages      Java · Python · JavaScript · TypeScript · SQL · Verilog
 Frontend       React · Next.js · React Native · Tailwind CSS · HTML/CSS
-Backend & AI   FastAPI · Streamlit · ChromaDB · Groq · RAG · n8n
-Data & Cloud   Supabase · PostgreSQL · MySQL · pgvector
+Backend & AI   FastAPI · Streamlit · Qdrant Cloud · Jina · Groq · RAG · n8n
+Data & Cloud   Supabase · PostgreSQL · MySQL · MongoDB · pgvector
 Foundations    Data Structures · Algorithms · OOP · Digital Logic · System Design
 ~~~
 
