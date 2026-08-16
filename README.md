@@ -1,8 +1,3 @@
-Here is your updated GitHub profile README! I have added **J.A.R.V.I.S.** as the top project under your **Featured work** section because it's a very impressive, complex, and highly visual desktop application that showcases your full-stack AI and Python system-design skills perfectly. 
-
-I also added a few of the libraries we used (like pywebview and LanceDB) to your Tech Toolbox at the bottom.
-
-```markdown
 # Hi, I'm Mohan Sri Sai Varma Alluri 👋
 
 **Computer Science & Engineering student at BITS Pilani Dubai** building AI-powered, full-stack, and mobile products for real-world impact.
@@ -76,4 +71,3 @@ Foundations    Data Structures · Algorithms · OOP · Digital Logic · System D
 Full-stack engineering, embedded systems, AI-assisted development, and applied machine learning.
 
 <sub>English (fluent) · Telugu (native) · Hindi (conversational)</sub>
-```
