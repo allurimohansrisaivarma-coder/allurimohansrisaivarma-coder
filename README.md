@@ -1,3 +1,8 @@
+Here is your updated GitHub profile README! I have added **J.A.R.V.I.S.** as the top project under your **Featured work** section because it's a very impressive, complex, and highly visual desktop application that showcases your full-stack AI and Python system-design skills perfectly. 
+
+I also added a few of the libraries we used (like pywebview and LanceDB) to your Tech Toolbox at the bottom.
+
+```markdown
 # Hi, I'm Mohan Sri Sai Varma Alluri 👋
 
 **Computer Science & Engineering student at BITS Pilani Dubai** building AI-powered, full-stack, and mobile products for real-world impact.
@@ -12,6 +17,16 @@ I enjoy taking ideas from system design to a working product - especially where 
 - **Impact-driven technology** - assistive systems, emergency-response tools, and student-focused products
 
 ## Featured work
+
+### J.A.R.V.I.S. — Desktop Intelligence Platform
+A full-featured Windows desktop AI assistant featuring an Iron Man-style HUD, real-time voice interactions, screen understanding, and long-term memory.
+
+- Built a frameless, always-on-top desktop UI using `pywebview` and WebSockets for a dynamic, Iron Man-styled holographic interface
+- Engineered a real-time voice pipeline with hold-to-speak capture, fast transcription (Groq Whisper), and an async 3-stage Edge TTS playback system
+- Implemented an intent-based LLM router that dynamically selects between Groq Llama (fast queries) and Google Gemini (complex reasoning, vision) for cost-optimal inference
+- Integrated deep OS capabilities for screen analysis (Gemini Vision) and file indexing, alongside long-term semantic memory using LanceDB and SQLite
+
+**Stack:** Python · pywebview · WebSockets · Google Gemini · Groq Whisper/Llama · LanceDB · Edge TTS
 
 ### AI Customer Service Agent
 A retrieval-augmented customer-support application for property-management knowledge bases, with customer chat and ticket administration.
@@ -51,8 +66,8 @@ A collaborative academic workspace for BITS Pilani Dubai students, created in co
 ~~~text
 Languages      Java · Python · JavaScript · TypeScript · SQL · Verilog
 Frontend       React · Next.js · React Native · Tailwind CSS · HTML/CSS
-Backend & AI   FastAPI · Streamlit · Qdrant Cloud · Jina · Groq · RAG · n8n
-Data & Cloud   Supabase · PostgreSQL · MySQL · MongoDB · pgvector
+Backend & AI   FastAPI · pywebview · Qdrant Cloud · LanceDB · Groq · Gemini · n8n
+Data & Cloud   Supabase · PostgreSQL · MySQL · MongoDB · pgvector · SQLite
 Foundations    Data Structures · Algorithms · OOP · Digital Logic · System Design
 ~~~
 
@@ -61,3 +76,4 @@ Foundations    Data Structures · Algorithms · OOP · Digital Logic · System D
 Full-stack engineering, embedded systems, AI-assisted development, and applied machine learning.
 
 <sub>English (fluent) · Telugu (native) · Hindi (conversational)</sub>
+```
