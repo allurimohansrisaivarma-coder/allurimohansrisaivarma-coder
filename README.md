@@ -42,7 +42,7 @@ A mobile fitness companion for food tracking, workouts, plans, and user logs.
 **Stack:** React Native · Expo · Supabase · PostgreSQL · pgvector · Groq
 
 ### UniQ
-A collaborative academic workspace for BITS Pilani Dubai students, created in collaboration with [Aradhya](https://github.com/aradhyacodes).
+A collaborative academic workspace for BITS Pilani Dubai students, created in collaboration with [Aradhya](https://github.com/encryptedfella).
 
 - Contributed to verified student onboarding, course-section selection, timetables, and personal deadline planning
 - Worked with Supabase Auth, PostgreSQL persistence, and row-level security
