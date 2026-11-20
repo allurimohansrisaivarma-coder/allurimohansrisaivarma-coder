@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:13233d&height=150&section=header&text=Mohan%20Sri%20Sai%20Varma%20Alluri&fontSize=34&fontColor=e2e8f0&fontAlignY=42&desc=AI%20Systems%20%C2%B7%20Full-Stack%20%C2%B7%20Mobile&descSize=15&descAlignY=68&descColor=38bdf8" width="100%" alt="Mohan Sri Sai Varma Alluri"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=900&color=94A3B8&center=true&vCenter=true&width=640&height=34&lines=CS%26E+undergraduate+%C2%B7+BITS+Pilani+Dubai;2x+hackathon+winner+%C2%B7+IEI+Grand+Hack+%C2%B7+IEEE+Campus+Ops;Decision-support+engines%2C+multi-agent+systems%2C+RAG;Taking+ideas+from+system+design+to+shipped+product" alt="Intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=900&color=94A3B8&center=true&vCenter=true&width=640&height=34&lines=CS%26E+undergraduate+%C2%B7+BITS+Pilani+Dubai;2x+hackathon+winner+%C2%B7+IEEE+Campus+Ops+%C2%B7+IEI+Grand+Hack;Decision-support+engines%2C+multi-agent+systems%2C+RAG;Taking+ideas+from+system+design+to+shipped+product" alt="Intro"/>
 
 <a href="https://www.linkedin.com/in/mohan-sri-sai-varma-050308326"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://github.com/allurimohansrisaivarma-coder?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-1e293b?style=flat-square&logo=github&logoColor=white" alt="Repositories"/></a>&nbsp;<img src="https://img.shields.io/badge/Based%20in-Dubai%2C%20UAE-1e293b?style=flat-square" alt="Dubai, UAE"/>
 
@@ -29,51 +29,15 @@ I'm a Computer Science & Engineering student at **BITS Pilani Dubai**. I build s
 
 | | Result | Event | Project |
 |:-:|---|---|---|
-| 🥇 | **1st place** | The Grand Hack · conducted by IEI | [GEOS](#geos) |
 | 🥇 | **1st place** | IEEE Campus Ops Hackathon | [PA / TA Portal](#pa-ta-portal) |
 | 🥈 | **2nd place** | NOVA 2026 · 24-hour hackathon | [Sea Safe](#sea-safe) |
 | 🏅 | **4th overall in the UAE** | UAE Hackathon 2026 · Pioneers track | [FalconAero](#falconaero) |
 | 🎯 | **Cleared the BITS internal round** | Smart India Hackathon 2026 | [AutoStack](#autostack) |
+| 🥇 | **1st place** | The Grand Hack · conducted by IEI | [GEOS](#geos) |
 
 ---
 
 ## Featured work
-
-<a id="geos"></a>
-
-### GEOS &nbsp;·&nbsp; Early warning for environmental stress
-<img src="https://img.shields.io/badge/%F0%9F%A5%87%201st%20Place-The%20Grand%20Hack%20%C2%B7%20IEI-b8860b?style=flat-square" alt="1st place, The Grand Hack by IEI"/>&nbsp;<sub>Computer Science track · <a href="https://github.com/allurimohansrisaivarma-coder/GEOS">Repository →</a></sub>
-
-<a href="https://github.com/allurimohansrisaivarma-coder/GEOS"><img src="https://raw.githubusercontent.com/allurimohansrisaivarma-coder/GEOS/main/docs/img/dashboard-full.png" width="100%" alt="GEOS dashboard: per-worker core temperature estimate, forecast, reasons and actions"/></a>
-
-The same 42 °C afternoon endangers a new hire in a double-layer suit and not an acclimatised supervisor in the shade. GEOS works out what is happening *to each person* and warns them before it harms them, even with no network.
-
-- **Real WBGT** per exposure zone from plain weather data and sun position, with CUSUM change-point detection
-- **Extended Kalman filter** fusing a heat-strain model with heart rate to estimate each worker's core temperature
-- **60-minute forecast** of time-to-danger with uncertainty; every alert says *why* and *what to do*
-- **Offline PWA with zero dependencies**: the engine runs on the device, so warnings never wait for a network
-
-![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![PWA](https://img.shields.io/badge/Offline_PWA-1e293b?style=flat-square&logo=pwa&logoColor=white)
-![Kalman](https://img.shields.io/badge/Kalman_filtering-1e293b?style=flat-square)
-![Open--Meteo](https://img.shields.io/badge/Open--Meteo-1e293b?style=flat-square)
-
-<details>
-<summary><b>More screenshots</b></summary>
-<br/>
-<table>
-<tr>
-<td width="50%"><img src="https://raw.githubusercontent.com/allurimohansrisaivarma-coder/GEOS/main/docs/img/offshore-full.png" alt="Offshore platform during an H2S release"/><br/><sub>Offshore H₂S release: the area monitor says all clear, the worker at the source is warned within 2 minutes.</sub></td>
-<td width="50%"><img src="https://raw.githubusercontent.com/allurimohansrisaivarma-coder/GEOS/main/docs/img/arctic.png" alt="Arctic plant: frostbite window and wind chill"/><br/><sub>Cold stress at an Arctic plant: minutes of exposed skin left.</sub></td>
-</tr>
-<tr>
-<td width="50%"><img src="https://raw.githubusercontent.com/allurimohansrisaivarma-coder/GEOS/main/docs/img/how-it-works.png" alt="How GEOS works"/><br/><sub>Monitor → detect → assess → warn.</sub></td>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/allurimohansrisaivarma-coder/GEOS/main/docs/img/mobile.png" width="60%" alt="GEOS mobile layout"/><br/><sub>Installable and fully usable on a phone.</sub></td>
-</tr>
-</table>
-</details>
-
-<br/>
 
 <a id="pa-ta-portal"></a>
 
@@ -199,6 +163,42 @@ Attach a spreadsheet and describe the repetitive work. A team of agents plans it
 <tr>
 <td width="50%"><img src="https://raw.githubusercontent.com/allurimohansrisaivarma-coder/AgentOffice/main/docs/images/ui-split-approval.png" alt="Approval card for the exact generated code"/><br/><sub>One approval card, tied to the exact code that will run.</sub></td>
 <td width="50%"><img src="https://raw.githubusercontent.com/allurimohansrisaivarma-coder/AgentOffice/main/docs/images/ui-split-done.png" alt="Finished run with the filled spreadsheet"/><br/><sub>Finished run: the filled sheet, ready to download.</sub></td>
+</tr>
+</table>
+</details>
+
+<br/>
+
+<a id="geos"></a>
+
+### GEOS &nbsp;·&nbsp; Early warning for environmental stress
+<img src="https://img.shields.io/badge/%F0%9F%A5%87%201st%20Place-The%20Grand%20Hack%20%C2%B7%20IEI-b8860b?style=flat-square" alt="1st place, The Grand Hack by IEI"/>&nbsp;<sub>Computer Science track · <a href="https://github.com/allurimohansrisaivarma-coder/GEOS">Repository →</a></sub>
+
+<a href="https://github.com/allurimohansrisaivarma-coder/GEOS"><img src="https://raw.githubusercontent.com/allurimohansrisaivarma-coder/GEOS/main/docs/img/dashboard-full.png" width="100%" alt="GEOS dashboard: per-worker core temperature estimate, forecast, reasons and actions"/></a>
+
+The same 42 °C afternoon endangers a new hire in a double-layer suit and not an acclimatised supervisor in the shade. GEOS works out what is happening *to each person* and warns them before it harms them, even with no network.
+
+- **Real WBGT** per exposure zone from plain weather data and sun position, with CUSUM change-point detection
+- **Extended Kalman filter** fusing a heat-strain model with heart rate to estimate each worker's core temperature
+- **60-minute forecast** of time-to-danger with uncertainty; every alert says *why* and *what to do*
+- **Offline PWA with zero dependencies**: the engine runs on the device, so warnings never wait for a network
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![PWA](https://img.shields.io/badge/Offline_PWA-1e293b?style=flat-square&logo=pwa&logoColor=white)
+![Kalman](https://img.shields.io/badge/Kalman_filtering-1e293b?style=flat-square)
+![Open--Meteo](https://img.shields.io/badge/Open--Meteo-1e293b?style=flat-square)
+
+<details>
+<summary><b>More screenshots</b></summary>
+<br/>
+<table>
+<tr>
+<td width="50%"><img src="https://raw.githubusercontent.com/allurimohansrisaivarma-coder/GEOS/main/docs/img/offshore-full.png" alt="Offshore platform during an H2S release"/><br/><sub>Offshore H₂S release: the area monitor says all clear, the worker at the source is warned within 2 minutes.</sub></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/allurimohansrisaivarma-coder/GEOS/main/docs/img/arctic.png" alt="Arctic plant: frostbite window and wind chill"/><br/><sub>Cold stress at an Arctic plant: minutes of exposed skin left.</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="https://raw.githubusercontent.com/allurimohansrisaivarma-coder/GEOS/main/docs/img/how-it-works.png" alt="How GEOS works"/><br/><sub>Monitor → detect → assess → warn.</sub></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/allurimohansrisaivarma-coder/GEOS/main/docs/img/mobile.png" width="60%" alt="GEOS mobile layout"/><br/><sub>Installable and fully usable on a phone.</sub></td>
 </tr>
 </table>
 </details>
